@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About mr"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-
+I am a Master of Science student in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign. My research focuses on Computer Vision, Medical Image Analysis, and Trustworthy Artificial Intelligence.
